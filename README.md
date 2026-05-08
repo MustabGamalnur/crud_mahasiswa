@@ -27,3 +27,5 @@ Aplikasi ini mengelola Data Mahasiswa dengan atribut sebagai berikut:
 2. Import file `db_kampus.sql` ke dalam database MySQL melalui HeidiSQL atau phpMyAdmin.
 3. Pastikan konfigurasi pada `koneksi.php` sudah sesuai dengan server lokal Anda.
 4. Akses melalui browser di `localhost/crud_mahasiswa`.
+
+Terimakasih!
